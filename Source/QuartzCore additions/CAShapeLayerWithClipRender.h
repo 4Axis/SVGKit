@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 na. All rights reserved.
 //
 
-#import <QuartzCore/QuartzCore.h>
+#import "ACVShapeLayer.h"
 
-@interface CAShapeLayerWithClipRender : CAShapeLayer
+@interface CAShapeLayerWithClipRender : ACVShapeLayer
 
 @end
